@@ -2,7 +2,7 @@
 The Calculator App is a simple Windows Forms application designed to provide basic calculator functionality. It allows users to perform addition, subtraction, multiplication, and division operations, along with customizing the visual appearance of the application.
 
 # Motivation
-The Calculator App was developed with the aim of providing users with a straightforward and user-friendly tool to perform basic arithmetic calculations. Whether it's for quick calculations or educational purposes, this app serves as a handy tool to help users crunch numbers without the need for complex calculations.
+The Calculator App has been developed with the aim of providing users with a straightforward and user-friendly tool to perform basic arithmetic calculations. Whether it's for quick calculations or educational purposes, this app serves as a handy tool to help users crunch numbers without the need for complex calculations.
 
 # Features
 Arithmetic Operations: Perform addition, subtraction, multiplication, and division calculations with ease.
