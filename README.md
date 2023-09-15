@@ -9,7 +9,7 @@ Arithmetic Operations: Perform addition, subtraction, multiplication, and divisi
 Customization: Personalize the application's visual appearance by choosing fonts and text colors.
 Image Upload: Upload and display images within the application for added personalization.
 Clear Functionality: Clear the current calculation or the result with the tap of a button.
-Simple User Interface: The intuitive interface makes it easy for users of all levels to perform calculations.
+Simple User Interface: The intuitive interface makes it easy for users of all levels to perform calculations..
 # Usage
 Arithmetic Operations: Click the number buttons and the operator buttons to input and select the desired operation.
 Equal Button: Press the "Equals" button to display the calculated result in the label area.
