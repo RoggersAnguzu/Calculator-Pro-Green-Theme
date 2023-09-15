@@ -17,8 +17,6 @@ Customization: Use the "Font" and "Color" buttons to customize the text appearan
 Image Upload: Click the "Upload Image" button to choose an image file for display within the app.
 Clear: Use the "Clear" button to clear the label area or the result.
 # Screenshots
-# User Login Part
-![Screenshot 2023-08-20 235709](https://github.com/RoggersAnguzu/PERSONALIZEDcalcPROversion2023/assets/141458053/96f3e57a-0f40-4a0d-adeb-7955733576e7)
 # Calculator.
 
 ![Cal2](https://github.com/RoggersAnguzu/PERSONALIZEDcalcPROversion2023/assets/141458053/7d3ada72-9d32-4884-81ef-96930ee1a601)
